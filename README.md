@@ -54,7 +54,7 @@ O projeto segue a arquitetura **MVVM (Model-View-ViewModel)** com **Jetpack Comp
 
 O cálculo do custo total de combustível é realizado na `FuelCalculatorViewModel` através da fórmula:
 
-$$\text{Custo Total} = \left( \frac{\text{Distância (Km)}}{\text{Consumo (Km/L)}} \right) \times \text{Preço do Combustível ($/L)}$$
+FÓRMULA --> Custo Total = (distância / consumo por litro) * preço do litro do combustível
 
 ---
 
